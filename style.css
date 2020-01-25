@@ -1,0 +1,60 @@
+
+.bg-light-blue{
+   background-color: white;
+}
+.bg-trans{
+  background-color: transparent;
+}
+.bg-light-yellow{
+  background-color: rgb(201, 157, 36);
+}
+.bg-purple{
+  background: rgb(87, 3, 87);
+}
+.purp-line{
+  height:15px;
+  width: 100%;
+  background-color: purple;
+}
+
+.text-white{
+  color: white
+}
+
+.text-grey{
+  color: rgb(126, 123, 123);
+}
+
+.top-pads{
+  padding-top: 5em;
+  padding-bottom: 3em
+}
+
+.middle-pads{
+  padding-top: 4em;
+}
+.white-bar{
+  padding-top: 10em;
+background-color: purple
+}
+
+.circle{
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  font-size:14px;
+  border:1.5px solid rgb(255, 255, 255);
+  background-color: white;
+  text-align: -webkit-center;
+}
+.button-1{
+  width:90%;
+}
+.btn-fix{
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 30%;
+  right: 30%;
+}
+
