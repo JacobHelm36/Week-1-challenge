@@ -1,6 +1,18 @@
+.card-parent{
+  position: relative;
+  top: 70px;
+}
 
+.pad-cards{
+  padding-top: 4em;
+}
+
+.text-align{
+  text-align: -webkit-center;
+}
 .bg-light-blue{
    background-color: white;
+   padding-top: 10em;
 }
 .bg-trans{
   background-color: transparent;
@@ -13,7 +25,6 @@
 }
 .purp-line{
   height:15px;
-  width: 100%;
   background-color: purple;
 }
 
@@ -27,11 +38,13 @@
 
 .top-pads{
   padding-top: 5em;
-  padding-bottom: 3em
+  padding-bottom: 3em;
+  padding-right: 3em;
+  padding-left: 3em;
 }
 
 .middle-pads{
-  padding-top: 4em;
+  padding-top: 3em;
 }
 .white-bar{
   padding-top: 10em;
@@ -45,10 +58,12 @@ background-color: purple
   font-size:14px;
   border:1.5px solid rgb(255, 255, 255);
   background-color: white;
-  text-align: -webkit-center;
+  padding: 10px;
+  margin-bottom: 15px;
 }
 .button-1{
   width:90%;
+  background-color: purple;
 }
 .btn-fix{
   position: absolute;
