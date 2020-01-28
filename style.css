@@ -72,4 +72,18 @@ background-color: purple
   left: 30%;
   right: 30%;
 }
-
+.picture-sizing{
+  width: 300px;
+  height: 300px;
+}
+.no-border{
+  border: 0px;
+}
+.top-bg{
+background: rgb(255,255,255);
+background: linear-gradient(27deg, rgba(255,255,255,1) 63%, rgba(85,61,144,1) 71%, rgba(107,79,163,1) 82%, rgba(85,61,144,1) 95%);
+}
+.side-padding{
+  padding-left: 20px;
+  padding-right: 25px;
+}
